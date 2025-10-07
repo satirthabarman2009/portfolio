@@ -1,0 +1,14 @@
+#See what are things I need to do using JS write them step by step
+
+1. First nav bar border logic
+2. Making the Scroll Btms functionalble
+3. Updating the backend logic like 
+
+#Now write the steps which are required to complete the FIRST thing (1.)=>{
+
+1.Acces all the four things
+2.Acees all the section and then take out the attribute of the part of the page 
+3.Then do change the color of the border of the item present in the nav bar if that section is visible.
+4.
+
+}
